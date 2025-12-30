@@ -1,0 +1,8 @@
+node_modules
+git init
+--git add .
+--git commit -m "Initial commit"
+--git remote add origin git@github.com:vaibhavchavhan45/NEW_REPO_NAME.git
+--git branch
+If not main then run as : git branch -M main
+--git push -u origin main
